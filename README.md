@@ -66,7 +66,7 @@ This site is built as a static web resource using:
 
 A typical structure for deployment is:
 
-
+```text
 .
 ├── index.html
 ├── index-en.html
