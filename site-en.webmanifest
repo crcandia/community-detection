@@ -1,0 +1,25 @@
+{
+  "name": "Community detection in networks",
+  "short_name": "Communities",
+  "description": "Graduate-level learning resource from CRiSS Lab on modularity and community detection algorithms.",
+  "lang": "en",
+  "start_url": "./index-en.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "./assets/favicon-square.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
