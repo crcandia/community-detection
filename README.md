@@ -73,6 +73,7 @@ A typical structure for deployment is:
 ├── assets/
 ├── site.webmanifest
 └── README.md
+```
 
 ## Acknowledgment
 
