@@ -1,13 +1,19 @@
 {
   "name": "Detección de comunidades en redes",
   "short_name": "Comunidades",
-  "description": "Recurso didáctico de postgrado de CRiSS Lab sobre modularidad y algoritmos de detección de comunidades.",
+  "description": "Recurso interactivo de CRiSS Lab sobre modularidad, métodos espectrales y algoritmos de detección de comunidades.",
   "lang": "es-CL",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#0d1117",
   "theme_color": "#0d1117",
+  "categories": [
+    "education",
+    "science",
+    "data-visualization"
+  ],
   "icons": [
     {
       "src": "./assets/favicon-square.png",
